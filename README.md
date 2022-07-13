@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Estefani 👋</h1>
+<h1 align="center">Hi, I'm Estef 👋</h1>
 <h3 align="center">A passionate backend developer based in London</h3>
 
 - 🌱 I’m currently learning **TDD**
