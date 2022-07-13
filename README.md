@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Estef 👋🏻</h1>
 <h3 align="center">A passionate backend developer based in London</h3>
 
-- 🌱 I’m currently learning **TDD**
+- 🌱 I’m currently learning **TDD/RSpec**
 
 - 📫 How to reach me **estefani.perez271@gmail.com**
 
