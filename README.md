@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Estef 👋🏻</h1>
-<h3 align="center">A passionate backend developer based in London</h3>
+<h3 align="center">A passionate web developer based in London</h3>
 
 - 🌱 I’m currently learning **TDD/RSpec**
 
